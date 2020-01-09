@@ -62,6 +62,9 @@ img {
 .BarreInput:active {
     border: 2px ridge;     
 }
+.ButtonSearch {
+    width: 100% ;
+}
 .ButtonSearch > button {
     margin-top: 18px ;
     height: 36px;
